@@ -11,7 +11,7 @@ function ThankYou() {
     >
       <main className="w-[340px] md:w-[360px] flex flex-col items-center text-center bg-gradient-to-b from-[var(--Dark-Blue)] to-[var(--Dark-Blue2)] rounded-[15px] text-[var(--Light-Grey)] p-[18px] ">
         <img
-          src="/images/illustration-thank-you.svg"
+          src="../images/illustration-thank-you.svg"
           alt="illustration-thank-you"
           className=""
         />
