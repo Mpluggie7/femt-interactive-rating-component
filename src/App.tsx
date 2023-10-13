@@ -14,6 +14,7 @@ function App() {
       <Routes>
         <Route index element={<RateMe />} />
         <Route path="thankyou/:star" element={<ThankYou />} />
+        <Route path="*" element={<RateMe />} />
       </Routes>
     </BrowserRouter>
   );
