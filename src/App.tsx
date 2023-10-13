@@ -1,7 +1,7 @@
 import "./App.css";
 import RateMe from "./pages/RateMe";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
-import ThankYou from "./pages/Thankyou";
+import ThankYou from "./pages/ThankYou";
 
 function App() {
   return (
