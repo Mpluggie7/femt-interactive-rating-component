@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "http://mpluggie7.github.io/femt-interactive-rating-component",
+  "homepage": "https://mpluggie7.github.io/femt-interactive-rating-component",
   "scripts": {
     "dev": "vite",
     "predeploy": "npm run build",
