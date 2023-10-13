@@ -1,3 +1,4 @@
+import React from 'react';
 import { useState } from "react";
 import RateStar from "../components/RateStar";
 import { useNavigate } from "react-router-dom";
