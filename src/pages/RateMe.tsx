@@ -18,7 +18,7 @@ function RateMe() {
     >
       <main className="w-[340px] md:w-[360px] bg-gradient-to-b from-[var(--Dark-Blue)] to-[var(--Dark-Blue2)] rounded-[15px] text-[var(--Light-Grey)] p-[18px] ">
         <img
-          src="/images/icon-star.svg"
+          src="./images/icon-star.svg"
           alt="icon-star"
           className="bg-[var(--Dark-Blue0)] rounded-full p-3"
         />
