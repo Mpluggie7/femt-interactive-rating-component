@@ -14,7 +14,6 @@ function App() {
       <Routes>
         <Route path="/" element={<RateMe />}>
           <Route path="thankyou/:star" element={<ThankYou />} />
-          <Route path="*" element={<RateMe />} />
         </Route>
       </Routes>
     </BrowserRouter>
